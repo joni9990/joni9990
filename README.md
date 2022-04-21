@@ -14,9 +14,8 @@
 <br />
 
 
-Hi there, I'm **Jonatan Raijman**, **Graduated** from ORT 🚀 Argentina.  Currently, I'm developing  <a href="https://codify-admin.web.app" target="_blank" rel="noopener noreferrer"> <img height="20" src="https://codify-admin.web.app/static/media/login-logo.b00d570f.svg"></a> , an app that makes offline shopping faster, easier and funnier!😁
+Hi there, I'm **Jonatan Raijman**, **Graduated** from ORT 🚀 Argentina.  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
